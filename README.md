@@ -123,3 +123,4 @@ ORDER BY number_of_actors ASC;
 ```
 
 These SQL code challenges cover a range of tasks, from creating dummy variables to analyzing rental data, calculating revenue, and summarizing actor counts in films. Each challenge is accompanied by its SQL solution and a brief description of the objective.
+The challenge is part of cantek academy data analtics training course 
